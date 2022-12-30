@@ -1,4 +1,4 @@
-package ru.netology.entity;
+package netology.entity;
 
 public enum Country {
     RUSSIA,

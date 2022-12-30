@@ -1,11 +1,11 @@
-package ru.netology.sender;
+package netology.sender;
 
 import java.util.Map;
 
-import ru.netology.entity.Country;
-import ru.netology.entity.Location;
-import ru.netology.geo.GeoService;
-import ru.netology.i18n.LocalizationService;
+import netology.entity.Country;
+import netology.entity.Location;
+import netology.geo.GeoService;
+import netology.i18n.LocalizationService;
 
 public class MessageSenderImpl implements MessageSender {
 

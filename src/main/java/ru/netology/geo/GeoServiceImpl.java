@@ -1,7 +1,7 @@
-package netology.geo;
+package ru.netology.geo;
 
-import netology.entity.Country;
-import netology.entity.Location;
+import ru.netology.entity.Country;
+import ru.netology.entity.Location;
 
 public class GeoServiceImpl implements GeoService {
 

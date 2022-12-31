@@ -1,4 +1,4 @@
-package netology.sender;
+package ru.netology.sender;
 
 import java.util.Map;
 
